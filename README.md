@@ -1,7 +1,7 @@
 # amv_encoder_for_windows
 a hard to find (AND WORKING!) solution to encoding anything to AMV (for some "MP4" players). uses new FFMPEG to pre-scale to 208x176 and encode to AVI which is than can be used as an input for "AMV Converter" (manually by you..). no installation. unzip and use (might be need to edit scripts for actual locations). license public domain just for my script - for ffmpeg and "amv converter" - it IS NOT!
 
-
+  
 download the repository using the following link: 
 <a href="https://github.com/eladkarako/amv_encoder_for_windows/archive/refs/heads/master.zip">https://github.com/eladkarako/amv_encoder_for_windows/archive/refs/heads/master.zip</a>  
 
